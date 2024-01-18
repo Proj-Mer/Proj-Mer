@@ -5,6 +5,11 @@
 <h2> 🌐 Networking Projects:</h2>
 
 <h2> 📃 Certifications:</h2>
+
+- [MiktoTik: Certified Network Associate](https://mikrotik.com/training/certificates/c279515c1194a4605050)
+- [MiktoTik: Certified Routing Engineer](https://mikrotik.com/training/certificates/c279563c2111239688da)
+- [MiktoTik: Certified User Management Engineer](https://mikrotik.com/training/certificates/c279538cd946079ed17f)
+
 <h2> 🤳 Connect with me:</h2>
 
 
