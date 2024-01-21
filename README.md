@@ -4,7 +4,7 @@
 
 <h2> 🌐 Home Lab Projects:</h2>
 
-- [Ative Directory Home Lab](https://github.com/Proj-Mer/Active-Directory-Home-lab)
+- [Active Directory Home Lab](https://github.com/Proj-Mer/Active-Directory-Home-lab)
 
 <h2> 📃 Certifications:</h2>
 
