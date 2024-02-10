@@ -5,6 +5,7 @@
 <h2> 🌐 Virtual Home Lab Projects:</h2>
 
 - [Active Directory Home Lab](https://github.com/Proj-Mer/Active-Directory-Home-lab)
+  - [User generation PS script.](https://github.com/Proj-Mer/PowerShell-script-user-generation)
 
 <h2> 📃 Certifications:</h2>
 
